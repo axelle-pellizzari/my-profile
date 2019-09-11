@@ -1,0 +1,92 @@
+
+body {
+	background-color: #D5BBB1;
+	color: #B36A5E;
+}
+h1{
+ 	color: #000500;
+ 	text-align: center;
+ }
+h2{
+ 	color: #000500;
+ }
+ h3{
+ 	color: #000500;
+ }
+ ul{
+ 	display: flex;
+ 	justify-content: space-between;
+ }
+
+ li{
+ 	list-style: none;
+ }
+
+ .profil {
+ 	width: 125px;
+ 	height: 150px;
+ 	border-radius: 50%;
+ 	margin: 0 auto;
+ }
+
+ #avatar {
+ 	text-align: center;
+ }
+ .laclic {
+ 	width: 125px;
+ 	height: 150px;
+ 	border-radius: 50%;
+ 	margin: 0 auto;
+ }
+
+h4{
+	color: #000500
+}
+.profil {
+	border: 5px solid black; 
+}
+.laclic {
+	border: 5px solid black;
+}
+
+#leader{
+	box-shadow: 0px 10px 10px rgba (5,0,0,0.9)
+}
+.axelle1{
+	background-color: #FFE8D1;
+	margin: 20px; 
+	padding: 30px;
+	border-radius: 4%;
+	box-shadow: 3px 5px 10px black;
+	
+}
+
+.axelle2{
+	background-color: #FFE8D1;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 7%;
+	box-shadow: 3px 5px 10px black;
+}
+.axelle3{
+	background-color: #FFE8D1;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 7%;
+	box-shadow: 3px 5px 10px black;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 40px;
+}
+.card img {
+  width: 140px;
+}
+.card h4 {
+  flex-grow: 5;
+  padding-left: 60px;
+}
+
